@@ -1,0 +1,71 @@
+/* color pallet refrence https://colorhunt.co/palette/135960 */
+
+
+
+/********************Tag Elements******************  */
+body {
+  background-color: #69779b;
+}
+
+hr {
+  border-style: dotted none none;
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/border-style */
+  border-color: #d7eaea;
+  border-width: 5px;
+  height: 0;
+  width: 5%
+}
+img {
+  border-radius: 100%;
+}
+
+h1 {
+  color: #acdbdf;
+}
+
+h2 {
+  color: #acdbdf;
+}
+
+h3 {
+  color: #acdbdf;
+}
+
+p{
+  color:#d7eaea;
+}
+table{
+  color:#d7eaea;
+}
+ul{
+  color: #d7eaea;
+}
+form{
+  color:#d7eaea;
+}
+/******************** class Elements ******************  */
+/*universal ******************  */
+.header {
+  position: relative;
+  left: 100px;
+
+}
+
+.center {
+  max-width: 400px;
+  margin: auto;
+}
+
+.margin{
+  position: relative;
+  left: 0px;
+}
+
+.font{
+  font-family: "Helvetica Neue", cursive, sans-serif;
+}
+/*index ******************  */
+.education_center{
+  position: relative;
+  left: 230px;
+}
